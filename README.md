@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bhaskarajmera
+- 👀 I’m interested in Making Graphical Visual websites.
+- 🌱 I’m currently learning Front-End Development.
+- 💞️ I’m looking to collaborate on NOTHING.
+- 📫 How to reach me : Ping me on "bhaskarajmera246@gmail.com" with "Subject: GitHub-####".
